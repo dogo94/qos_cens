@@ -1,0 +1,330 @@
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.Licensing.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.ResolveComReference.cache
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Dimelo papi.exe.config
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Dimelo papi.exe.manifest
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Dimelo papi.application
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Dimelo papi.exe
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Dimelo papi.pdb
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\bin\Debug\Dimelo papi.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\Dimelo papi.TrustInfo.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\Dimelo papi.exe.manifest
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\Dimelo papi.application
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\Dimelo papi.exe
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\Dimelo papi.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\Dimelo papi.pdb
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.FormControlAsignaciones.resources
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.FormSeguimientoPIR.resources
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.FormInformeAP.resources
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.FormGire.resources
+C:\Users\aortizri\source\repos\UGOedward\CapaPresentacion\obj\Debug\CapaPresentacion.FormWinTrafo.resources
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.ResolveComReference.cache
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal2.resources
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\QOS.exe.config
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\QOS.exe.manifest
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\QOS.application
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\QOS.exe
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\QOS.pdb
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\QOS.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.Licensing.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\QOS.TrustInfo.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\QOS.exe.manifest
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\QOS.application
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\QOS.exe
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\QOS.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaPresentacion\obj\Debug\QOS.pdb
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\QOS.exe.config
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\QOS.exe.manifest
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\QOS.application
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\QOS.exe
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\QOS.pdb
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\QOS.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.Licensing.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.ResolveComReference.cache
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal2.resources
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\QOS.TrustInfo.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\QOS.exe.manifest
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\QOS.application
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\QOS.exe
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\QOS.xml
+C:\Users\aortizri\source\repos\Estructura\CapaPresentacion\obj\Debug\QOS.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\QOS.exe.config
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\QOS.exe.manifest
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\QOS.application
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\QOS.exe
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\QOS.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\QOS.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.ResolveComReference.cache
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\QOS.TrustInfo.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\QOS.exe.manifest
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\QOS.application
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\QOS.exe
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\QOS.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\QOS.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.FormCargarInsumos.resources
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.FormFormatoDiario.resources
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\obj\Debug\CapaPresentacion.FormBRA.resources
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\ExcelDataReader.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\ExcelDataReader.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\ExcelDataReader.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaPresentacion\bin\Debug\ExcelDataReader.DataSet.xml

@@ -1,0 +1,64 @@
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\obj\Debug\CapaNegocio.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\UGOedward\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\obj\Debug\CapaNegocio.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\UGOedward - copia\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\obj\Debug\CapaNegocio.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\Estructura\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\obj\Debug\CapaNegocio.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\aortizri\source\repos\Proyecto QoS\CapaNegocio\obj\Debug\CapaNegocio.pdb
