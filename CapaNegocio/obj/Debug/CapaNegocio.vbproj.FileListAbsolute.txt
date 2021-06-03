@@ -9,8 +9,8 @@ D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\bin\Debug\Oracle.ManagedData
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\bin\Debug\CapaDatos.pdb
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\bin\Debug\CapaDatos.xml
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\bin\Debug\CapaDatos.dll.config
-D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbprojAssemblyReference.cache
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.xml
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache

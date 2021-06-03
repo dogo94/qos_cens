@@ -37,7 +37,7 @@ Partial Class FormFormatoDiario
         '
         Me.ComboACCION.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ComboACCION.FormattingEnabled = True
-        Me.ComboACCION.Location = New System.Drawing.Point(263, 50)
+        Me.ComboACCION.Location = New System.Drawing.Point(924, 11)
         Me.ComboACCION.Name = "ComboACCION"
         Me.ComboACCION.Size = New System.Drawing.Size(240, 28)
         Me.ComboACCION.TabIndex = 75
@@ -46,7 +46,7 @@ Partial Class FormFormatoDiario
         '
         Me.ComboSUBTIPO.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ComboSUBTIPO.FormattingEnabled = True
-        Me.ComboSUBTIPO.Location = New System.Drawing.Point(17, 51)
+        Me.ComboSUBTIPO.Location = New System.Drawing.Point(678, 12)
         Me.ComboSUBTIPO.Name = "ComboSUBTIPO"
         Me.ComboSUBTIPO.Size = New System.Drawing.Size(240, 28)
         Me.ComboSUBTIPO.TabIndex = 74
@@ -63,7 +63,7 @@ Partial Class FormFormatoDiario
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(509, 45)
+        Me.Button1.Location = New System.Drawing.Point(1170, 6)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(37, 36)
         Me.Button1.TabIndex = 72
@@ -96,9 +96,9 @@ Partial Class FormFormatoDiario
         '
         Me.ProgressBar.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.ProgressBar.Location = New System.Drawing.Point(17, 87)
+        Me.ProgressBar.Location = New System.Drawing.Point(17, 48)
         Me.ProgressBar.Name = "ProgressBar"
-        Me.ProgressBar.Size = New System.Drawing.Size(656, 10)
+        Me.ProgressBar.Size = New System.Drawing.Size(1283, 10)
         Me.ProgressBar.TabIndex = 76
         '
         'DataGridView1
@@ -109,16 +109,17 @@ Partial Class FormFormatoDiario
         Me.DataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells
         Me.DataGridView1.BackgroundColor = System.Drawing.SystemColors.Control
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(17, 103)
+        Me.DataGridView1.Location = New System.Drawing.Point(17, 64)
         Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(656, 406)
+        Me.DataGridView1.Size = New System.Drawing.Size(1283, 445)
         Me.DataGridView1.TabIndex = 77
         '
         'FormFormatoDiario
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(684, 521)
+        Me.BackColor = System.Drawing.Color.White
+        Me.ClientSize = New System.Drawing.Size(1311, 521)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.ProgressBar)
         Me.Controls.Add(Me.ComboACCION)

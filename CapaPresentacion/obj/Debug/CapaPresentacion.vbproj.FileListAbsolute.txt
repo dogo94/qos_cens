@@ -1,4 +1,3 @@
-D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.ResolveComReference.cache
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.FormBRA.resources
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.FormCargarInsumos.resources
@@ -33,3 +32,4 @@ D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\bin\Debug\CapaDatos.xml
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\bin\Debug\CapaDatos.dll.config
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\QOS.application
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache

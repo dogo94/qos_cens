@@ -1,7 +1,6 @@
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.Resources.resources
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
-D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\bin\Debug\CapaDatos.dll.config
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\bin\Debug\CapaDatos.dll
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\bin\Debug\CapaDatos.pdb
@@ -10,3 +9,4 @@ D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.Cop
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.dll
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.xml
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache

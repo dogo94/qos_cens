@@ -24,44 +24,44 @@ Partial Class FormPrincipal
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FormPrincipal))
         Me.PanelMenu = New System.Windows.Forms.Panel()
-        Me.PanelSubMenuVerificacionInformacion = New System.Windows.Forms.Panel()
-        Me.PanelSubMenuCDL = New System.Windows.Forms.Panel()
-        Me.PanelSubMenuIndicadores = New System.Windows.Forms.Panel()
-        Me.PanelSubMenuSUI = New System.Windows.Forms.Panel()
-        Me.PanelSubMenuLAC = New System.Windows.Forms.Panel()
-        Me.PanelSubMenuArchivo = New System.Windows.Forms.Panel()
-        Me.PanelLogo = New System.Windows.Forms.Panel()
-        Me.PanelHead = New System.Windows.Forms.Panel()
-        Me.lblFormTitle = New System.Windows.Forms.Label()
-        Me.PanelChildForm = New System.Windows.Forms.Panel()
-        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
-        Me.imgMaximizar = New System.Windows.Forms.PictureBox()
-        Me.imgRestaurar = New System.Windows.Forms.PictureBox()
-        Me.imgMinimizar = New System.Windows.Forms.PictureBox()
-        Me.imgCerrar = New System.Windows.Forms.PictureBox()
-        Me.IconCurrentForm = New FontAwesome.Sharp.IconPictureBox()
         Me.btnIncentivosCompensaciones = New FontAwesome.Sharp.IconButton()
+        Me.PanelSubMenuVerificacionInformacion = New System.Windows.Forms.Panel()
         Me.btnCREG025 = New FontAwesome.Sharp.IconButton()
         Me.btnParticularOR = New FontAwesome.Sharp.IconButton()
         Me.btnVerificacionInformacion = New FontAwesome.Sharp.IconButton()
+        Me.PanelSubMenuCDL = New System.Windows.Forms.Panel()
         Me.btnGestionMetas = New FontAwesome.Sharp.IconButton()
         Me.btnGestionTraslapes = New FontAwesome.Sharp.IconButton()
         Me.btnCDL = New FontAwesome.Sharp.IconButton()
+        Me.PanelSubMenuIndicadores = New System.Windows.Forms.Panel()
         Me.btnSAIDISAIFI = New FontAwesome.Sharp.IconButton()
         Me.btnIndicadores = New FontAwesome.Sharp.IconButton()
+        Me.PanelSubMenuSUI = New System.Windows.Forms.Panel()
         Me.btnBRA = New FontAwesome.Sharp.IconButton()
         Me.btnCS = New FontAwesome.Sharp.IconButton()
         Me.btnTT = New FontAwesome.Sharp.IconButton()
         Me.btnTC = New FontAwesome.Sharp.IconButton()
         Me.btnGeneracionSUI = New FontAwesome.Sharp.IconButton()
+        Me.PanelSubMenuLAC = New System.Windows.Forms.Panel()
         Me.btnFormatoAltoImpacto = New FontAwesome.Sharp.IconButton()
         Me.btnFormatoAjuste = New FontAwesome.Sharp.IconButton()
         Me.btnFormatoDiario = New FontAwesome.Sharp.IconButton()
         Me.btnGeneracionLAC = New FontAwesome.Sharp.IconButton()
+        Me.PanelSubMenuArchivo = New System.Windows.Forms.Panel()
         Me.btnCerrarPrograma = New FontAwesome.Sharp.IconButton()
         Me.btnCargarInsumos = New FontAwesome.Sharp.IconButton()
         Me.btnArchivo = New FontAwesome.Sharp.IconButton()
+        Me.PanelLogo = New System.Windows.Forms.Panel()
         Me.imgHome = New System.Windows.Forms.PictureBox()
+        Me.PanelHead = New System.Windows.Forms.Panel()
+        Me.imgMaximizar = New System.Windows.Forms.PictureBox()
+        Me.imgRestaurar = New System.Windows.Forms.PictureBox()
+        Me.imgMinimizar = New System.Windows.Forms.PictureBox()
+        Me.imgCerrar = New System.Windows.Forms.PictureBox()
+        Me.lblFormTitle = New System.Windows.Forms.Label()
+        Me.IconCurrentForm = New FontAwesome.Sharp.IconPictureBox()
+        Me.PanelChildForm = New System.Windows.Forms.Panel()
+        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PanelMenu.SuspendLayout()
         Me.PanelSubMenuVerificacionInformacion.SuspendLayout()
         Me.PanelSubMenuCDL.SuspendLayout()
@@ -70,21 +70,21 @@ Partial Class FormPrincipal
         Me.PanelSubMenuLAC.SuspendLayout()
         Me.PanelSubMenuArchivo.SuspendLayout()
         Me.PanelLogo.SuspendLayout()
+        CType(Me.imgHome, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.PanelHead.SuspendLayout()
-        Me.PanelChildForm.SuspendLayout()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.imgMaximizar, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.imgRestaurar, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.imgMinimizar, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.imgCerrar, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.IconCurrentForm, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.imgHome, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.PanelChildForm.SuspendLayout()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'PanelMenu
         '
         Me.PanelMenu.AutoScroll = True
-        Me.PanelMenu.BackColor = System.Drawing.Color.FromArgb(CType(CType(11, Byte), Integer), CType(CType(7, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.PanelMenu.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.PanelMenu.Controls.Add(Me.btnIncentivosCompensaciones)
         Me.PanelMenu.Controls.Add(Me.PanelSubMenuVerificacionInformacion)
         Me.PanelMenu.Controls.Add(Me.btnVerificacionInformacion)
@@ -102,192 +102,12 @@ Partial Class FormPrincipal
         Me.PanelMenu.Dock = System.Windows.Forms.DockStyle.Left
         Me.PanelMenu.Location = New System.Drawing.Point(0, 0)
         Me.PanelMenu.Name = "PanelMenu"
-        Me.PanelMenu.Size = New System.Drawing.Size(250, 562)
+        Me.PanelMenu.Size = New System.Drawing.Size(250, 748)
         Me.PanelMenu.TabIndex = 2
-        '
-        'PanelSubMenuVerificacionInformacion
-        '
-        Me.PanelSubMenuVerificacionInformacion.Controls.Add(Me.btnCREG025)
-        Me.PanelSubMenuVerificacionInformacion.Controls.Add(Me.btnParticularOR)
-        Me.PanelSubMenuVerificacionInformacion.Dock = System.Windows.Forms.DockStyle.Top
-        Me.PanelSubMenuVerificacionInformacion.Location = New System.Drawing.Point(0, 994)
-        Me.PanelSubMenuVerificacionInformacion.Name = "PanelSubMenuVerificacionInformacion"
-        Me.PanelSubMenuVerificacionInformacion.Size = New System.Drawing.Size(233, 108)
-        Me.PanelSubMenuVerificacionInformacion.TabIndex = 11
-        '
-        'PanelSubMenuCDL
-        '
-        Me.PanelSubMenuCDL.Controls.Add(Me.btnGestionMetas)
-        Me.PanelSubMenuCDL.Controls.Add(Me.btnGestionTraslapes)
-        Me.PanelSubMenuCDL.Dock = System.Windows.Forms.DockStyle.Top
-        Me.PanelSubMenuCDL.Location = New System.Drawing.Point(0, 838)
-        Me.PanelSubMenuCDL.Name = "PanelSubMenuCDL"
-        Me.PanelSubMenuCDL.Size = New System.Drawing.Size(233, 108)
-        Me.PanelSubMenuCDL.TabIndex = 9
-        '
-        'PanelSubMenuIndicadores
-        '
-        Me.PanelSubMenuIndicadores.Controls.Add(Me.btnSAIDISAIFI)
-        Me.PanelSubMenuIndicadores.Dock = System.Windows.Forms.DockStyle.Top
-        Me.PanelSubMenuIndicadores.Location = New System.Drawing.Point(0, 728)
-        Me.PanelSubMenuIndicadores.Name = "PanelSubMenuIndicadores"
-        Me.PanelSubMenuIndicadores.Size = New System.Drawing.Size(233, 62)
-        Me.PanelSubMenuIndicadores.TabIndex = 7
-        '
-        'PanelSubMenuSUI
-        '
-        Me.PanelSubMenuSUI.Controls.Add(Me.btnBRA)
-        Me.PanelSubMenuSUI.Controls.Add(Me.btnCS)
-        Me.PanelSubMenuSUI.Controls.Add(Me.btnTT)
-        Me.PanelSubMenuSUI.Controls.Add(Me.btnTC)
-        Me.PanelSubMenuSUI.Dock = System.Windows.Forms.DockStyle.Top
-        Me.PanelSubMenuSUI.Location = New System.Drawing.Point(0, 492)
-        Me.PanelSubMenuSUI.Name = "PanelSubMenuSUI"
-        Me.PanelSubMenuSUI.Size = New System.Drawing.Size(233, 188)
-        Me.PanelSubMenuSUI.TabIndex = 5
-        '
-        'PanelSubMenuLAC
-        '
-        Me.PanelSubMenuLAC.Controls.Add(Me.btnFormatoAltoImpacto)
-        Me.PanelSubMenuLAC.Controls.Add(Me.btnFormatoAjuste)
-        Me.PanelSubMenuLAC.Controls.Add(Me.btnFormatoDiario)
-        Me.PanelSubMenuLAC.Dock = System.Windows.Forms.DockStyle.Top
-        Me.PanelSubMenuLAC.Location = New System.Drawing.Point(0, 298)
-        Me.PanelSubMenuLAC.Name = "PanelSubMenuLAC"
-        Me.PanelSubMenuLAC.Size = New System.Drawing.Size(233, 146)
-        Me.PanelSubMenuLAC.TabIndex = 3
-        '
-        'PanelSubMenuArchivo
-        '
-        Me.PanelSubMenuArchivo.Controls.Add(Me.btnCerrarPrograma)
-        Me.PanelSubMenuArchivo.Controls.Add(Me.btnCargarInsumos)
-        Me.PanelSubMenuArchivo.Dock = System.Windows.Forms.DockStyle.Top
-        Me.PanelSubMenuArchivo.Location = New System.Drawing.Point(0, 142)
-        Me.PanelSubMenuArchivo.Name = "PanelSubMenuArchivo"
-        Me.PanelSubMenuArchivo.Size = New System.Drawing.Size(233, 108)
-        Me.PanelSubMenuArchivo.TabIndex = 1
-        '
-        'PanelLogo
-        '
-        Me.PanelLogo.Controls.Add(Me.imgHome)
-        Me.PanelLogo.Dock = System.Windows.Forms.DockStyle.Top
-        Me.PanelLogo.Location = New System.Drawing.Point(0, 0)
-        Me.PanelLogo.Name = "PanelLogo"
-        Me.PanelLogo.Size = New System.Drawing.Size(233, 94)
-        Me.PanelLogo.TabIndex = 0
-        '
-        'PanelHead
-        '
-        Me.PanelHead.BackColor = System.Drawing.Color.FromArgb(CType(CType(3, Byte), Integer), CType(CType(21, Byte), Integer), CType(CType(32, Byte), Integer))
-        Me.PanelHead.Controls.Add(Me.imgMaximizar)
-        Me.PanelHead.Controls.Add(Me.imgRestaurar)
-        Me.PanelHead.Controls.Add(Me.imgMinimizar)
-        Me.PanelHead.Controls.Add(Me.imgCerrar)
-        Me.PanelHead.Controls.Add(Me.lblFormTitle)
-        Me.PanelHead.Controls.Add(Me.IconCurrentForm)
-        Me.PanelHead.Cursor = System.Windows.Forms.Cursors.SizeAll
-        Me.PanelHead.Dock = System.Windows.Forms.DockStyle.Top
-        Me.PanelHead.Location = New System.Drawing.Point(250, 0)
-        Me.PanelHead.Name = "PanelHead"
-        Me.PanelHead.Size = New System.Drawing.Size(684, 41)
-        Me.PanelHead.TabIndex = 3
-        '
-        'lblFormTitle
-        '
-        Me.lblFormTitle.AutoSize = True
-        Me.lblFormTitle.ForeColor = System.Drawing.Color.Gainsboro
-        Me.lblFormTitle.Location = New System.Drawing.Point(44, 11)
-        Me.lblFormTitle.Name = "lblFormTitle"
-        Me.lblFormTitle.Size = New System.Drawing.Size(36, 17)
-        Me.lblFormTitle.TabIndex = 1
-        Me.lblFormTitle.Text = "QoS"
-        '
-        'PanelChildForm
-        '
-        Me.PanelChildForm.BackColor = System.Drawing.Color.FromArgb(CType(CType(2, Byte), Integer), CType(CType(30, Byte), Integer), CType(CType(45, Byte), Integer))
-        Me.PanelChildForm.Controls.Add(Me.PictureBox2)
-        Me.PanelChildForm.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.PanelChildForm.Location = New System.Drawing.Point(250, 41)
-        Me.PanelChildForm.Name = "PanelChildForm"
-        Me.PanelChildForm.Size = New System.Drawing.Size(684, 521)
-        Me.PanelChildForm.TabIndex = 4
-        '
-        'PictureBox2
-        '
-        Me.PictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None
-        Me.PictureBox2.Image = CType(resources.GetObject("PictureBox2.Image"), System.Drawing.Image)
-        Me.PictureBox2.Location = New System.Drawing.Point(264, 216)
-        Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(157, 88)
-        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox2.TabIndex = 3
-        Me.PictureBox2.TabStop = False
-        '
-        'imgMaximizar
-        '
-        Me.imgMaximizar.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.imgMaximizar.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.imgMaximizar.Image = Global.CapaPresentacion.My.Resources.Resources.Icono_Maximizar
-        Me.imgMaximizar.Location = New System.Drawing.Point(618, 3)
-        Me.imgMaximizar.Name = "imgMaximizar"
-        Me.imgMaximizar.Size = New System.Drawing.Size(29, 27)
-        Me.imgMaximizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.imgMaximizar.TabIndex = 9
-        Me.imgMaximizar.TabStop = False
-        '
-        'imgRestaurar
-        '
-        Me.imgRestaurar.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.imgRestaurar.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.imgRestaurar.Image = Global.CapaPresentacion.My.Resources.Resources.Icono_Restaurar
-        Me.imgRestaurar.Location = New System.Drawing.Point(618, 3)
-        Me.imgRestaurar.Name = "imgRestaurar"
-        Me.imgRestaurar.Size = New System.Drawing.Size(29, 27)
-        Me.imgRestaurar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.imgRestaurar.TabIndex = 8
-        Me.imgRestaurar.TabStop = False
-        Me.imgRestaurar.Visible = False
-        '
-        'imgMinimizar
-        '
-        Me.imgMinimizar.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.imgMinimizar.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.imgMinimizar.Image = Global.CapaPresentacion.My.Resources.Resources.Icono_Minimizar
-        Me.imgMinimizar.Location = New System.Drawing.Point(583, 3)
-        Me.imgMinimizar.Name = "imgMinimizar"
-        Me.imgMinimizar.Size = New System.Drawing.Size(29, 27)
-        Me.imgMinimizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.imgMinimizar.TabIndex = 7
-        Me.imgMinimizar.TabStop = False
-        '
-        'imgCerrar
-        '
-        Me.imgCerrar.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.imgCerrar.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.imgCerrar.Image = Global.CapaPresentacion.My.Resources.Resources.Icono_cerrar_FN
-        Me.imgCerrar.Location = New System.Drawing.Point(653, 3)
-        Me.imgCerrar.Name = "imgCerrar"
-        Me.imgCerrar.Size = New System.Drawing.Size(29, 27)
-        Me.imgCerrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.imgCerrar.TabIndex = 6
-        Me.imgCerrar.TabStop = False
-        '
-        'IconCurrentForm
-        '
-        Me.IconCurrentForm.BackColor = System.Drawing.Color.FromArgb(CType(CType(3, Byte), Integer), CType(CType(21, Byte), Integer), CType(CType(32, Byte), Integer))
-        Me.IconCurrentForm.ForeColor = System.Drawing.Color.LawnGreen
-        Me.IconCurrentForm.IconChar = FontAwesome.Sharp.IconChar.Home
-        Me.IconCurrentForm.IconColor = System.Drawing.Color.LawnGreen
-        Me.IconCurrentForm.IconFont = FontAwesome.Sharp.IconFont.[Auto]
-        Me.IconCurrentForm.Location = New System.Drawing.Point(6, 5)
-        Me.IconCurrentForm.Name = "IconCurrentForm"
-        Me.IconCurrentForm.Size = New System.Drawing.Size(32, 32)
-        Me.IconCurrentForm.TabIndex = 0
-        Me.IconCurrentForm.TabStop = False
         '
         'btnIncentivosCompensaciones
         '
-        Me.btnIncentivosCompensaciones.BackColor = System.Drawing.Color.FromArgb(CType(CType(11, Byte), Integer), CType(CType(7, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.btnIncentivosCompensaciones.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.btnIncentivosCompensaciones.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnIncentivosCompensaciones.Dock = System.Windows.Forms.DockStyle.Top
         Me.btnIncentivosCompensaciones.FlatAppearance.BorderSize = 0
@@ -307,6 +127,17 @@ Partial Class FormPrincipal
         Me.btnIncentivosCompensaciones.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btnIncentivosCompensaciones.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnIncentivosCompensaciones.UseVisualStyleBackColor = False
+        '
+        'PanelSubMenuVerificacionInformacion
+        '
+        Me.PanelSubMenuVerificacionInformacion.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.PanelSubMenuVerificacionInformacion.Controls.Add(Me.btnCREG025)
+        Me.PanelSubMenuVerificacionInformacion.Controls.Add(Me.btnParticularOR)
+        Me.PanelSubMenuVerificacionInformacion.Dock = System.Windows.Forms.DockStyle.Top
+        Me.PanelSubMenuVerificacionInformacion.Location = New System.Drawing.Point(0, 994)
+        Me.PanelSubMenuVerificacionInformacion.Name = "PanelSubMenuVerificacionInformacion"
+        Me.PanelSubMenuVerificacionInformacion.Size = New System.Drawing.Size(233, 108)
+        Me.PanelSubMenuVerificacionInformacion.TabIndex = 11
         '
         'btnCREG025
         '
@@ -356,7 +187,7 @@ Partial Class FormPrincipal
         '
         'btnVerificacionInformacion
         '
-        Me.btnVerificacionInformacion.BackColor = System.Drawing.Color.FromArgb(CType(CType(11, Byte), Integer), CType(CType(7, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.btnVerificacionInformacion.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.btnVerificacionInformacion.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnVerificacionInformacion.Dock = System.Windows.Forms.DockStyle.Top
         Me.btnVerificacionInformacion.FlatAppearance.BorderSize = 0
@@ -376,6 +207,17 @@ Partial Class FormPrincipal
         Me.btnVerificacionInformacion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btnVerificacionInformacion.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnVerificacionInformacion.UseVisualStyleBackColor = False
+        '
+        'PanelSubMenuCDL
+        '
+        Me.PanelSubMenuCDL.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.PanelSubMenuCDL.Controls.Add(Me.btnGestionMetas)
+        Me.PanelSubMenuCDL.Controls.Add(Me.btnGestionTraslapes)
+        Me.PanelSubMenuCDL.Dock = System.Windows.Forms.DockStyle.Top
+        Me.PanelSubMenuCDL.Location = New System.Drawing.Point(0, 838)
+        Me.PanelSubMenuCDL.Name = "PanelSubMenuCDL"
+        Me.PanelSubMenuCDL.Size = New System.Drawing.Size(233, 108)
+        Me.PanelSubMenuCDL.TabIndex = 9
         '
         'btnGestionMetas
         '
@@ -425,7 +267,7 @@ Partial Class FormPrincipal
         '
         'btnCDL
         '
-        Me.btnCDL.BackColor = System.Drawing.Color.FromArgb(CType(CType(11, Byte), Integer), CType(CType(7, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.btnCDL.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.btnCDL.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnCDL.Dock = System.Windows.Forms.DockStyle.Top
         Me.btnCDL.FlatAppearance.BorderSize = 0
@@ -445,6 +287,16 @@ Partial Class FormPrincipal
         Me.btnCDL.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btnCDL.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnCDL.UseVisualStyleBackColor = False
+        '
+        'PanelSubMenuIndicadores
+        '
+        Me.PanelSubMenuIndicadores.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.PanelSubMenuIndicadores.Controls.Add(Me.btnSAIDISAIFI)
+        Me.PanelSubMenuIndicadores.Dock = System.Windows.Forms.DockStyle.Top
+        Me.PanelSubMenuIndicadores.Location = New System.Drawing.Point(0, 728)
+        Me.PanelSubMenuIndicadores.Name = "PanelSubMenuIndicadores"
+        Me.PanelSubMenuIndicadores.Size = New System.Drawing.Size(233, 62)
+        Me.PanelSubMenuIndicadores.TabIndex = 7
         '
         'btnSAIDISAIFI
         '
@@ -471,7 +323,7 @@ Partial Class FormPrincipal
         '
         'btnIndicadores
         '
-        Me.btnIndicadores.BackColor = System.Drawing.Color.FromArgb(CType(CType(11, Byte), Integer), CType(CType(7, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.btnIndicadores.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.btnIndicadores.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnIndicadores.Dock = System.Windows.Forms.DockStyle.Top
         Me.btnIndicadores.FlatAppearance.BorderSize = 0
@@ -491,6 +343,19 @@ Partial Class FormPrincipal
         Me.btnIndicadores.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btnIndicadores.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnIndicadores.UseVisualStyleBackColor = False
+        '
+        'PanelSubMenuSUI
+        '
+        Me.PanelSubMenuSUI.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.PanelSubMenuSUI.Controls.Add(Me.btnBRA)
+        Me.PanelSubMenuSUI.Controls.Add(Me.btnCS)
+        Me.PanelSubMenuSUI.Controls.Add(Me.btnTT)
+        Me.PanelSubMenuSUI.Controls.Add(Me.btnTC)
+        Me.PanelSubMenuSUI.Dock = System.Windows.Forms.DockStyle.Top
+        Me.PanelSubMenuSUI.Location = New System.Drawing.Point(0, 492)
+        Me.PanelSubMenuSUI.Name = "PanelSubMenuSUI"
+        Me.PanelSubMenuSUI.Size = New System.Drawing.Size(233, 188)
+        Me.PanelSubMenuSUI.TabIndex = 5
         '
         'btnBRA
         '
@@ -586,7 +451,7 @@ Partial Class FormPrincipal
         '
         'btnGeneracionSUI
         '
-        Me.btnGeneracionSUI.BackColor = System.Drawing.Color.FromArgb(CType(CType(11, Byte), Integer), CType(CType(7, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.btnGeneracionSUI.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.btnGeneracionSUI.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnGeneracionSUI.Dock = System.Windows.Forms.DockStyle.Top
         Me.btnGeneracionSUI.FlatAppearance.BorderSize = 0
@@ -606,6 +471,18 @@ Partial Class FormPrincipal
         Me.btnGeneracionSUI.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btnGeneracionSUI.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnGeneracionSUI.UseVisualStyleBackColor = False
+        '
+        'PanelSubMenuLAC
+        '
+        Me.PanelSubMenuLAC.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.PanelSubMenuLAC.Controls.Add(Me.btnFormatoAltoImpacto)
+        Me.PanelSubMenuLAC.Controls.Add(Me.btnFormatoAjuste)
+        Me.PanelSubMenuLAC.Controls.Add(Me.btnFormatoDiario)
+        Me.PanelSubMenuLAC.Dock = System.Windows.Forms.DockStyle.Top
+        Me.PanelSubMenuLAC.Location = New System.Drawing.Point(0, 298)
+        Me.PanelSubMenuLAC.Name = "PanelSubMenuLAC"
+        Me.PanelSubMenuLAC.Size = New System.Drawing.Size(233, 146)
+        Me.PanelSubMenuLAC.TabIndex = 3
         '
         'btnFormatoAltoImpacto
         '
@@ -678,7 +555,7 @@ Partial Class FormPrincipal
         '
         'btnGeneracionLAC
         '
-        Me.btnGeneracionLAC.BackColor = System.Drawing.Color.FromArgb(CType(CType(11, Byte), Integer), CType(CType(7, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.btnGeneracionLAC.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.btnGeneracionLAC.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnGeneracionLAC.Dock = System.Windows.Forms.DockStyle.Top
         Me.btnGeneracionLAC.FlatAppearance.BorderSize = 0
@@ -698,6 +575,17 @@ Partial Class FormPrincipal
         Me.btnGeneracionLAC.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btnGeneracionLAC.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnGeneracionLAC.UseVisualStyleBackColor = False
+        '
+        'PanelSubMenuArchivo
+        '
+        Me.PanelSubMenuArchivo.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.PanelSubMenuArchivo.Controls.Add(Me.btnCerrarPrograma)
+        Me.PanelSubMenuArchivo.Controls.Add(Me.btnCargarInsumos)
+        Me.PanelSubMenuArchivo.Dock = System.Windows.Forms.DockStyle.Top
+        Me.PanelSubMenuArchivo.Location = New System.Drawing.Point(0, 142)
+        Me.PanelSubMenuArchivo.Name = "PanelSubMenuArchivo"
+        Me.PanelSubMenuArchivo.Size = New System.Drawing.Size(233, 108)
+        Me.PanelSubMenuArchivo.TabIndex = 1
         '
         'btnCerrarPrograma
         '
@@ -747,7 +635,7 @@ Partial Class FormPrincipal
         '
         'btnArchivo
         '
-        Me.btnArchivo.BackColor = System.Drawing.Color.FromArgb(CType(CType(11, Byte), Integer), CType(CType(7, Byte), Integer), CType(CType(17, Byte), Integer))
+        Me.btnArchivo.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.btnArchivo.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnArchivo.Dock = System.Windows.Forms.DockStyle.Top
         Me.btnArchivo.FlatAppearance.BorderSize = 0
@@ -768,6 +656,17 @@ Partial Class FormPrincipal
         Me.btnArchivo.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnArchivo.UseVisualStyleBackColor = False
         '
+        'PanelLogo
+        '
+        Me.PanelLogo.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.PanelLogo.Controls.Add(Me.imgHome)
+        Me.PanelLogo.Dock = System.Windows.Forms.DockStyle.Top
+        Me.PanelLogo.ForeColor = System.Drawing.SystemColors.WindowFrame
+        Me.PanelLogo.Location = New System.Drawing.Point(0, 0)
+        Me.PanelLogo.Name = "PanelLogo"
+        Me.PanelLogo.Size = New System.Drawing.Size(233, 94)
+        Me.PanelLogo.TabIndex = 0
+        '
         'imgHome
         '
         Me.imgHome.Cursor = System.Windows.Forms.Cursors.Hand
@@ -779,20 +678,131 @@ Partial Class FormPrincipal
         Me.imgHome.TabIndex = 1
         Me.imgHome.TabStop = False
         '
+        'PanelHead
+        '
+        Me.PanelHead.BackColor = System.Drawing.Color.FromArgb(CType(CType(3, Byte), Integer), CType(CType(21, Byte), Integer), CType(CType(32, Byte), Integer))
+        Me.PanelHead.Controls.Add(Me.imgMaximizar)
+        Me.PanelHead.Controls.Add(Me.imgRestaurar)
+        Me.PanelHead.Controls.Add(Me.imgMinimizar)
+        Me.PanelHead.Controls.Add(Me.imgCerrar)
+        Me.PanelHead.Controls.Add(Me.lblFormTitle)
+        Me.PanelHead.Controls.Add(Me.IconCurrentForm)
+        Me.PanelHead.Cursor = System.Windows.Forms.Cursors.SizeAll
+        Me.PanelHead.Dock = System.Windows.Forms.DockStyle.Top
+        Me.PanelHead.Location = New System.Drawing.Point(250, 0)
+        Me.PanelHead.Name = "PanelHead"
+        Me.PanelHead.Size = New System.Drawing.Size(935, 41)
+        Me.PanelHead.TabIndex = 3
+        '
+        'imgMaximizar
+        '
+        Me.imgMaximizar.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.imgMaximizar.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.imgMaximizar.Image = Global.CapaPresentacion.My.Resources.Resources.Icono_Maximizar
+        Me.imgMaximizar.Location = New System.Drawing.Point(869, 3)
+        Me.imgMaximizar.Name = "imgMaximizar"
+        Me.imgMaximizar.Size = New System.Drawing.Size(29, 27)
+        Me.imgMaximizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.imgMaximizar.TabIndex = 9
+        Me.imgMaximizar.TabStop = False
+        '
+        'imgRestaurar
+        '
+        Me.imgRestaurar.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.imgRestaurar.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.imgRestaurar.Image = Global.CapaPresentacion.My.Resources.Resources.Icono_Restaurar
+        Me.imgRestaurar.Location = New System.Drawing.Point(869, 3)
+        Me.imgRestaurar.Name = "imgRestaurar"
+        Me.imgRestaurar.Size = New System.Drawing.Size(29, 27)
+        Me.imgRestaurar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.imgRestaurar.TabIndex = 8
+        Me.imgRestaurar.TabStop = False
+        Me.imgRestaurar.Visible = False
+        '
+        'imgMinimizar
+        '
+        Me.imgMinimizar.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.imgMinimizar.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.imgMinimizar.Image = Global.CapaPresentacion.My.Resources.Resources.Icono_Minimizar
+        Me.imgMinimizar.Location = New System.Drawing.Point(834, 3)
+        Me.imgMinimizar.Name = "imgMinimizar"
+        Me.imgMinimizar.Size = New System.Drawing.Size(29, 27)
+        Me.imgMinimizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.imgMinimizar.TabIndex = 7
+        Me.imgMinimizar.TabStop = False
+        '
+        'imgCerrar
+        '
+        Me.imgCerrar.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.imgCerrar.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.imgCerrar.Image = Global.CapaPresentacion.My.Resources.Resources.Icono_cerrar_FN
+        Me.imgCerrar.Location = New System.Drawing.Point(904, 3)
+        Me.imgCerrar.Name = "imgCerrar"
+        Me.imgCerrar.Size = New System.Drawing.Size(29, 27)
+        Me.imgCerrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.imgCerrar.TabIndex = 6
+        Me.imgCerrar.TabStop = False
+        '
+        'lblFormTitle
+        '
+        Me.lblFormTitle.AutoSize = True
+        Me.lblFormTitle.ForeColor = System.Drawing.Color.Gainsboro
+        Me.lblFormTitle.Location = New System.Drawing.Point(44, 11)
+        Me.lblFormTitle.Name = "lblFormTitle"
+        Me.lblFormTitle.Size = New System.Drawing.Size(36, 17)
+        Me.lblFormTitle.TabIndex = 1
+        Me.lblFormTitle.Text = "QoS"
+        '
+        'IconCurrentForm
+        '
+        Me.IconCurrentForm.BackColor = System.Drawing.Color.FromArgb(CType(CType(3, Byte), Integer), CType(CType(21, Byte), Integer), CType(CType(32, Byte), Integer))
+        Me.IconCurrentForm.ForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.IconCurrentForm.IconChar = FontAwesome.Sharp.IconChar.Home
+        Me.IconCurrentForm.IconColor = System.Drawing.SystemColors.ActiveCaption
+        Me.IconCurrentForm.IconFont = FontAwesome.Sharp.IconFont.[Auto]
+        Me.IconCurrentForm.Location = New System.Drawing.Point(6, 5)
+        Me.IconCurrentForm.Name = "IconCurrentForm"
+        Me.IconCurrentForm.Size = New System.Drawing.Size(32, 32)
+        Me.IconCurrentForm.TabIndex = 0
+        Me.IconCurrentForm.TabStop = False
+        '
+        'PanelChildForm
+        '
+        Me.PanelChildForm.BackColor = System.Drawing.Color.FromArgb(CType(CType(2, Byte), Integer), CType(CType(30, Byte), Integer), CType(CType(45, Byte), Integer))
+        Me.PanelChildForm.Controls.Add(Me.PictureBox2)
+        Me.PanelChildForm.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.PanelChildForm.Location = New System.Drawing.Point(250, 41)
+        Me.PanelChildForm.Name = "PanelChildForm"
+        Me.PanelChildForm.Size = New System.Drawing.Size(935, 707)
+        Me.PanelChildForm.TabIndex = 4
+        '
+        'PictureBox2
+        '
+        Me.PictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.PictureBox2.Image = CType(resources.GetObject("PictureBox2.Image"), System.Drawing.Image)
+        Me.PictureBox2.Location = New System.Drawing.Point(389, 309)
+        Me.PictureBox2.Name = "PictureBox2"
+        Me.PictureBox2.Size = New System.Drawing.Size(213, 82)
+        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox2.TabIndex = 3
+        Me.PictureBox2.TabStop = False
+        '
         'FormPrincipal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(934, 562)
+        Me.ClientSize = New System.Drawing.Size(1185, 748)
         Me.Controls.Add(Me.PanelChildForm)
         Me.Controls.Add(Me.PanelHead)
         Me.Controls.Add(Me.PanelMenu)
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.MinimumSize = New System.Drawing.Size(950, 600)
         Me.Name = "FormPrincipal"
-        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.Manual
         Me.Text = "FormPrincipal2"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.PanelMenu.ResumeLayout(False)
         Me.PanelSubMenuVerificacionInformacion.ResumeLayout(False)
         Me.PanelSubMenuCDL.ResumeLayout(False)
@@ -801,17 +811,17 @@ Partial Class FormPrincipal
         Me.PanelSubMenuLAC.ResumeLayout(False)
         Me.PanelSubMenuArchivo.ResumeLayout(False)
         Me.PanelLogo.ResumeLayout(False)
+        CType(Me.imgHome, System.ComponentModel.ISupportInitialize).EndInit()
         Me.PanelHead.ResumeLayout(False)
         Me.PanelHead.PerformLayout()
-        Me.PanelChildForm.ResumeLayout(False)
-        Me.PanelChildForm.PerformLayout()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.imgMaximizar, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.imgRestaurar, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.imgMinimizar, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.imgCerrar, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.IconCurrentForm, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.imgHome, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.PanelChildForm.ResumeLayout(False)
+        Me.PanelChildForm.PerformLayout()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
