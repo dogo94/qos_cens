@@ -687,7 +687,7 @@ Partial Class FormPrincipal
         Me.PanelHead.Controls.Add(Me.imgCerrar)
         Me.PanelHead.Controls.Add(Me.lblFormTitle)
         Me.PanelHead.Controls.Add(Me.IconCurrentForm)
-        Me.PanelHead.Cursor = System.Windows.Forms.Cursors.SizeAll
+        Me.PanelHead.Cursor = System.Windows.Forms.Cursors.Arrow
         Me.PanelHead.Dock = System.Windows.Forms.DockStyle.Top
         Me.PanelHead.Location = New System.Drawing.Point(250, 0)
         Me.PanelHead.Name = "PanelHead"

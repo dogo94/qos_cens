@@ -53,6 +53,7 @@ Partial Class FormFormatoDiario
         '
         'ComboTIPO
         '
+        Me.ComboTIPO.BackColor = System.Drawing.Color.White
         Me.ComboTIPO.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ComboTIPO.FormattingEnabled = True
         Me.ComboTIPO.Location = New System.Drawing.Point(501, 11)
@@ -63,9 +64,9 @@ Partial Class FormFormatoDiario
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(1170, 6)
+        Me.Button1.Location = New System.Drawing.Point(1170, 10)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(37, 36)
+        Me.Button1.Size = New System.Drawing.Size(37, 30)
         Me.Button1.TabIndex = 72
         Me.Button1.Text = ">>"
         Me.Button1.UseVisualStyleBackColor = True
@@ -83,6 +84,10 @@ Partial Class FormFormatoDiario
         'FDD_PERIODO_OP
         '
         Me.FDD_PERIODO_OP.CalendarFont = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.FDD_PERIODO_OP.CalendarForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.FDD_PERIODO_OP.CalendarMonthBackground = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.FDD_PERIODO_OP.CalendarTitleBackColor = System.Drawing.SystemColors.ControlText
+        Me.FDD_PERIODO_OP.CalendarTitleForeColor = System.Drawing.SystemColors.ButtonHighlight
         Me.FDD_PERIODO_OP.CustomFormat = ""
         Me.FDD_PERIODO_OP.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FDD_PERIODO_OP.ImeMode = System.Windows.Forms.ImeMode.NoControl
@@ -118,7 +123,7 @@ Partial Class FormFormatoDiario
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.White
+        Me.BackColor = System.Drawing.SystemColors.Control
         Me.ClientSize = New System.Drawing.Size(1311, 521)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.ProgressBar)
