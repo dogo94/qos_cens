@@ -1,7 +1,7 @@
 ﻿Imports Oracle.ManagedDataAccess.Client
 
 Public MustInherit Class ConnectionToOracle
-    Private connectionString, connectionStringPruebas As String
+    Private connectionString As String
 
     'constructor de forma protegida
     Protected Sub New()

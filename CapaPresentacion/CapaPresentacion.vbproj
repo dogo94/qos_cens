@@ -217,6 +217,10 @@
       <Project>{6d2f82ea-8db2-48c4-9e8d-0bac0a244d4a}</Project>
       <Name>CapaNegocio</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Common\Common.vbproj">
+      <Project>{e1f3ad6d-fb97-42b3-a1b5-65bf1c6ea206}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="Microsoft.Office.Core">

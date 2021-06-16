@@ -1,0 +1,20 @@
+C:\Users\aortizri\source\repos\COLCAFE\Common\bin\Debug\Common.dll
+C:\Users\aortizri\source\repos\COLCAFE\Common\bin\Debug\Common.pdb
+C:\Users\aortizri\source\repos\COLCAFE\Common\bin\Debug\Common.xml
+C:\Users\aortizri\source\repos\COLCAFE\Common\obj\Debug\Common.vbprojAssemblyReference.cache
+C:\Users\aortizri\source\repos\COLCAFE\Common\obj\Debug\Common.Resources.resources
+C:\Users\aortizri\source\repos\COLCAFE\Common\obj\Debug\Common.vbproj.GenerateResource.cache
+C:\Users\aortizri\source\repos\COLCAFE\Common\obj\Debug\Common.vbproj.CoreCompileInputs.cache
+C:\Users\aortizri\source\repos\COLCAFE\Common\obj\Debug\Common.dll
+C:\Users\aortizri\source\repos\COLCAFE\Common\obj\Debug\Common.xml
+C:\Users\aortizri\source\repos\COLCAFE\Common\obj\Debug\Common.pdb
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\bin\Debug\Common.dll
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\bin\Debug\Common.pdb
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\bin\Debug\Common.xml
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.vbprojAssemblyReference.cache
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.Resources.resources
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.vbproj.GenerateResource.cache
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.vbproj.CoreCompileInputs.cache
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.dll
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.xml
+D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.pdb

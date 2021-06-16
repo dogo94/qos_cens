@@ -105,6 +105,10 @@
       <Project>{9aa615fe-70ce-4701-8ab9-f800bac68b8d}</Project>
       <Name>CapaDatos</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Common\Common.vbproj">
+      <Project>{e1f3ad6d-fb97-42b3-a1b5-65bf1c6ea206}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

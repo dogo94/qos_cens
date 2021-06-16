@@ -9,6 +9,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CapaNegocio", "CapaNegocio\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.vbproj", "{533A3F2C-4CF4-4B5C-B1B1-FF86A33A7361}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Common", "Common\Common.vbproj", "{E1F3AD6D-FB97-42B3-A1B5-65BF1C6EA206}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{533A3F2C-4CF4-4B5C-B1B1-FF86A33A7361}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{533A3F2C-4CF4-4B5C-B1B1-FF86A33A7361}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{533A3F2C-4CF4-4B5C-B1B1-FF86A33A7361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F3AD6D-FB97-42B3-A1B5-65BF1C6EA206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F3AD6D-FB97-42B3-A1B5-65BF1C6EA206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F3AD6D-FB97-42B3-A1B5-65BF1C6EA206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F3AD6D-FB97-42B3-A1B5-65BF1C6EA206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
