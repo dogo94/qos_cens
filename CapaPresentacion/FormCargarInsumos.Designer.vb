@@ -22,12 +22,10 @@ Partial Class FormCargarInsumos
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.Button1 = New System.Windows.Forms.Button()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.btnCargar = New System.Windows.Forms.Button()
         Me.btnGuardar = New System.Windows.Forms.Button()
-        Me.btnEliminar = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.txtRuta = New System.Windows.Forms.TextBox()
         Me.cmbInsumo = New System.Windows.Forms.ComboBox()
@@ -40,16 +38,6 @@ Partial Class FormCargarInsumos
         Me.PanelHead.SuspendLayout()
         Me.PanelBody.SuspendLayout()
         Me.SuspendLayout()
-        '
-        'Button1
-        '
-        Me.Button1.Location = New System.Drawing.Point(571, 57)
-        Me.Button1.Margin = New System.Windows.Forms.Padding(4)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(100, 28)
-        Me.Button1.TabIndex = 2
-        Me.Button1.Text = "Button1"
-        Me.Button1.UseVisualStyleBackColor = True
         '
         'DataGridView1
         '
@@ -72,33 +60,35 @@ Partial Class FormCargarInsumos
         '
         'btnCargar
         '
+        Me.btnCargar.BackColor = System.Drawing.SystemColors.Control
+        Me.btnCargar.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnCargar.Enabled = False
-        Me.btnCargar.Location = New System.Drawing.Point(397, 14)
+        Me.btnCargar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(CType(CType(28, Byte), Integer), CType(CType(28, Byte), Integer), CType(CType(28, Byte), Integer))
+        Me.btnCargar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.btnCargar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnCargar.ForeColor = System.Drawing.Color.Black
+        Me.btnCargar.Location = New System.Drawing.Point(397, 8)
         Me.btnCargar.Name = "btnCargar"
-        Me.btnCargar.Size = New System.Drawing.Size(75, 23)
+        Me.btnCargar.Size = New System.Drawing.Size(96, 33)
         Me.btnCargar.TabIndex = 5
         Me.btnCargar.Text = "Cargar"
-        Me.btnCargar.UseVisualStyleBackColor = True
+        Me.btnCargar.UseVisualStyleBackColor = False
         '
         'btnGuardar
         '
+        Me.btnGuardar.BackColor = System.Drawing.SystemColors.Control
+        Me.btnGuardar.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btnGuardar.Enabled = False
-        Me.btnGuardar.Location = New System.Drawing.Point(478, 14)
+        Me.btnGuardar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(CType(CType(28, Byte), Integer), CType(CType(28, Byte), Integer), CType(CType(28, Byte), Integer))
+        Me.btnGuardar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+        Me.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnGuardar.ForeColor = System.Drawing.Color.Black
+        Me.btnGuardar.Location = New System.Drawing.Point(499, 8)
         Me.btnGuardar.Name = "btnGuardar"
-        Me.btnGuardar.Size = New System.Drawing.Size(75, 23)
+        Me.btnGuardar.Size = New System.Drawing.Size(110, 33)
         Me.btnGuardar.TabIndex = 6
         Me.btnGuardar.Text = "Guardar Formato"
-        Me.btnGuardar.UseVisualStyleBackColor = True
-        '
-        'btnEliminar
-        '
-        Me.btnEliminar.Enabled = False
-        Me.btnEliminar.Location = New System.Drawing.Point(558, 14)
-        Me.btnEliminar.Name = "btnEliminar"
-        Me.btnEliminar.Size = New System.Drawing.Size(75, 23)
-        Me.btnEliminar.TabIndex = 7
-        Me.btnEliminar.Text = "Eliminar"
-        Me.btnEliminar.UseVisualStyleBackColor = True
+        Me.btnGuardar.UseVisualStyleBackColor = False
         '
         'Label2
         '
@@ -119,6 +109,9 @@ Partial Class FormCargarInsumos
         '
         'cmbInsumo
         '
+        Me.cmbInsumo.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend
+        Me.cmbInsumo.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems
+        Me.cmbInsumo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmbInsumo.FormattingEnabled = True
         Me.cmbInsumo.Items.AddRange(New Object() {"EI1 Encuesta de inventarios", "PI1 Inventario planes", "PI3 Inventario proyectos"})
         Me.cmbInsumo.Location = New System.Drawing.Point(51, 15)
@@ -141,6 +134,9 @@ Partial Class FormCargarInsumos
         '
         'cmbsheets
         '
+        Me.cmbsheets.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend
+        Me.cmbsheets.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems
+        Me.cmbsheets.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmbsheets.Enabled = False
         Me.cmbsheets.FormattingEnabled = True
         Me.cmbsheets.Location = New System.Drawing.Point(432, 53)
@@ -150,7 +146,6 @@ Partial Class FormCargarInsumos
         '
         'PanelHead
         '
-        Me.PanelHead.Controls.Add(Me.Button1)
         Me.PanelHead.Controls.Add(Me.cmbsheets)
         Me.PanelHead.Controls.Add(Me.Label1)
         Me.PanelHead.Controls.Add(Me.Label3)
@@ -158,7 +153,6 @@ Partial Class FormCargarInsumos
         Me.PanelHead.Controls.Add(Me.cmbInsumo)
         Me.PanelHead.Controls.Add(Me.btnGuardar)
         Me.PanelHead.Controls.Add(Me.txtRuta)
-        Me.PanelHead.Controls.Add(Me.btnEliminar)
         Me.PanelHead.Controls.Add(Me.Label2)
         Me.PanelHead.Dock = System.Windows.Forms.DockStyle.Top
         Me.PanelHead.Location = New System.Drawing.Point(0, 0)
@@ -191,13 +185,10 @@ Partial Class FormCargarInsumos
         Me.ResumeLayout(False)
 
     End Sub
-
-    Friend WithEvents Button1 As Button
     Friend WithEvents DataGridView1 As DataGridView
     Friend WithEvents Label1 As Label
     Friend WithEvents btnCargar As Button
     Friend WithEvents btnGuardar As Button
-    Friend WithEvents btnEliminar As Button
     Friend WithEvents Label2 As Label
     Friend WithEvents txtRuta As TextBox
     Friend WithEvents cmbInsumo As ComboBox

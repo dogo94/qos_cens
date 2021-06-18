@@ -15,10 +15,6 @@ Public Class FormCargarInsumos
     Dim cantErrores As Integer = 0
     Dim capturoCatch As Integer = 0
 
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim objeto As UserModel = New UserModel
-        DataGridView1.DataSource = objeto.mostrarAlgo()
-    End Sub
 
     Private Sub btnCargar_Click(sender As Object, e As EventArgs) Handles btnCargar.Click
         Using ofd As OpenFileDialog = New OpenFileDialog() With {.Filter = "Excel Workbook|*.xlsx|Excel 97-2003 Workbook|*xls"}
@@ -56,11 +52,6 @@ Public Class FormCargarInsumos
         Else
             btnGuardar.Enabled = False
         End If
-        'If txtRuta.Text <> String.Empty And cmbsheets.Text <> String.Empty Then
-        '    btnexportar.Enabled = True
-        'Else
-        '    btnexportar.Enabled = False
-        'End If
     End Sub
 
     Private Sub txtRuta_TextChanged(sender As Object, e As EventArgs) Handles txtRuta.TextChanged
@@ -151,30 +142,55 @@ Public Class FormCargarInsumos
     Private Sub cmbInsumo_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbInsumo.SelectedIndexChanged
         If cmbInsumo.Text <> "" Then
             btnCargar.Enabled = True
-            btnEliminar.Enabled = True
         Else
             btnCargar.Enabled = False
-            btnEliminar.Enabled = False
         End If
     End Sub
 
     Private Sub validarPI3()
         Dim objeto As UserModel = New UserModel
         Dim refTabla113, refTabla114 As Integer
-        objeto.eliminarPI3Temp()
+        Dim concatscriptPI3, scriptPI3 As String
+
+        objeto.referenciaTabla113()
+        objeto.referenciaTabla114()
 
         Try
             For i As Integer = 0 To DataGridView1.Rows.Count - 2 Step +1
                 If DataGridView1.Rows(i).Cells(0).Value.ToString <> "" And DataGridView1.Rows(i).Cells(0).Value.ToString.Length <= 20 Then  'ID_PLAN
                     If DataGridView1.Rows(i).Cells(1).Value.ToString <> "" And DataGridView1.Rows(i).Cells(1).Value.ToString.Length <= 20 Then  'ID_PROYECTO
                         If DataGridView1.Rows(i).Cells(2).Value.ToString <> "" And DataGridView1.Rows(i).Cells(2).Value.ToString.Length <= 20 Then  'ID_PROYECTO_PLAN_ANTERIOR
-                            If IsNumeric(DataGridView1.Rows(i).Cells(3).Value.ToString) And DataGridView1.Rows(i).Cells(3).Value.ToString.Length <= 1 Then  'TIPO_PROYECTO
-                                objeto.referenciaTabla113(DataGridView1.Rows(i).Cells(3).Value.ToString)
-                                refTabla113 = Common.identificador
+                            If DataGridView1.Rows(i).Cells(3).Value.ToString = 1 Then
+                                refTabla113 = tablaSUI.vector113(0)
+                            ElseIf DataGridView1.Rows(i).Cells(3).Value.ToString = 2 Then
+                                refTabla113 = tablaSUI.vector113(1)
+                            ElseIf DataGridView1.Rows(i).Cells(3).Value.ToString = 3 Then
+                                refTabla113 = tablaSUI.vector113(2)
+                            ElseIf DataGridView1.Rows(i).Cells(3).Value.ToString = 4 Then
+                                refTabla113 = tablaSUI.vector113(3)
+                            ElseIf DataGridView1.Rows(i).Cells(3).Value.ToString = 5 Then
+                                refTabla113 = tablaSUI.vector113(4)
+                            Else
+                                refTabla113 = 0
+                            End If
+                            If IsNumeric(DataGridView1.Rows(i).Cells(3).Value.ToString) And DataGridView1.Rows(i).Cells(3).Value.ToString.Length <= 1 And refTabla113 <> 0 Then  'TIPO_PROYECTO
                                 If DataGridView1.Rows(i).Cells(4).Value.ToString.Length <= 400 Then 'OBJETIVO_PROYECTO_CODIGO
-                                    If IsNumeric(DataGridView1.Rows(i).Cells(5).Value.ToString) And DataGridView1.Rows(i).Cells(5).Value.ToString.Length <= 1 Then  'ACT_RELACIONADAS_PROYECTO
-                                        objeto.referenciaTabla113(DataGridView1.Rows(i).Cells(5).Value.ToString)
-                                        refTabla114 = Common.identificador
+                                    If DataGridView1.Rows(i).Cells(5).Value.ToString = 1 Then
+                                        refTabla114 = tablaSUI.vector114(0)
+                                    ElseIf DataGridView1.Rows(i).Cells(5).Value.ToString = 2 Then
+                                        refTabla114 = tablaSUI.vector114(1)
+                                    ElseIf DataGridView1.Rows(i).Cells(5).Value.ToString = 3 Then
+                                        refTabla114 = tablaSUI.vector114(2)
+                                    ElseIf DataGridView1.Rows(i).Cells(5).Value.ToString = 4 Then
+                                        refTabla114 = tablaSUI.vector114(3)
+                                    ElseIf DataGridView1.Rows(i).Cells(5).Value.ToString = 5 Then
+                                        refTabla114 = tablaSUI.vector114(4)
+                                    ElseIf DataGridView1.Rows(i).Cells(5).Value.ToString = 6 Then
+                                        refTabla114 = tablaSUI.vector114(5)
+                                    Else
+                                        refTabla114 = 0
+                                    End If
+                                    If IsNumeric(DataGridView1.Rows(i).Cells(5).Value.ToString) And DataGridView1.Rows(i).Cells(5).Value.ToString.Length <= 1 And refTabla114 <> 0 Then  'ACT_RELACIONADAS_PROYECTO
                                         If DataGridView1.Rows(i).Cells(6).Value.ToString.Length <= 400 Then 'DESCRIPCION_PROYECTO
                                             If DataGridView1.Rows(i).Cells(7).Value.ToString.Length <= 400 Then 'BENEFICIOS_ESPERADOS
                                                 If IsNumeric(DataGridView1.Rows(i).Cells(8).Value.ToString) And DataGridView1.Rows(i).Cells(8).Value.ToString.Length <= 13 Then 'VALOR_REGULATORIO_APROBADO
@@ -182,10 +198,8 @@ Public Class FormCargarInsumos
                                                         If DataGridView1.Rows(i).Cells(12).Value.ToString.Length <= 20 Then 'APROBACION_UPME
                                                             If DataGridView1.Rows(i).Cells(13).Value.ToString.Length <= 500 Then    'OBSERVACIONES
                                                                 If DataGridView1.Rows(i).Cells(14).Value.ToString <> "" And DataGridView1.Rows(i).Cells(14).Value.ToString.Length <= 3 Then 'ID_MERCADO
-                                                                    objeto.registrarPI3Temp(DataGridView1.Rows(i).Cells(0).Value.ToString, DataGridView1.Rows(i).Cells(1).Value.ToString, DataGridView1.Rows(i).Cells(2).Value.ToString, refTabla113,
-                                                                                            DataGridView1.Rows(i).Cells(4).Value.ToString, refTabla114, DataGridView1.Rows(i).Cells(6).Value.ToString, DataGridView1.Rows(i).Cells(7).Value.ToString,
-                                                                                            DataGridView1.Rows(i).Cells(8).Value.ToString, DataGridView1.Rows(i).Cells(9).Value.ToString, DataGridView1.Rows(i).Cells(10).Value.ToString, DataGridView1.Rows(i).Cells(11).Value.ToString,
-                                                                                            DataGridView1.Rows(i).Cells(12).Value.ToString, DataGridView1.Rows(i).Cells(13).Value.ToString, DataGridView1.Rows(i).Cells(14).Value.ToString)
+                                                                    scriptPI3 = "INTO ac_tpi3 VALUES (" & DataGridView1.Rows(i).Cells(0).Value.ToString & ", '" & DataGridView1.Rows(i).Cells(1).Value.ToString & "', '" & DataGridView1.Rows(i).Cells(2).Value.ToString & "', " & refTabla113 & ", '" & DataGridView1.Rows(i).Cells(4).Value.ToString & "', " & refTabla114 & ", '" & DataGridView1.Rows(i).Cells(6).Value.ToString & "', '" & DataGridView1.Rows(i).Cells(7).Value.ToString & "', " & DataGridView1.Rows(i).Cells(8).Value.ToString & ", " & DataGridView1.Rows(i).Cells(9).Value.ToString & ", TO_DATE ('" & Convert.ToDateTime(DataGridView1.Rows(i).Cells(10).Value.ToString) & "', 'DD/MM/YYYY'), TO_DATE ('" & Convert.ToDateTime(DataGridView1.Rows(i).Cells(11).Value.ToString) & "', 'DD/MM/YYYY'), '" & DataGridView1.Rows(i).Cells(12).Value.ToString & "', '" & DataGridView1.Rows(i).Cells(13).Value.ToString & "', " & DataGridView1.Rows(i).Cells(14).Value.ToString & ")"
+                                                                    concatscriptPI3 = concatscriptPI3 & scriptPI3 & vbCrLf
                                                                     contador = contador + 1
                                                                 Else
                                                                     cantErrores = cantErrores + 1
@@ -240,6 +254,22 @@ Public Class FormCargarInsumos
                     cadenaError = cadenaError & cantErrores & " - El registro del campo ID PLAN en la columna 1 y fila " & i + 1 & " no corresponde con los datos esperados. Valor recibido: " & DataGridView1.Rows(i).Cells(0).Value.ToString + vbCrLf
                 End If
             Next
+            Console.WriteLine("TABLA113-1: " & tablaSUI.vector113(0))
+            Console.WriteLine("TABLA113-2: " & tablaSUI.vector113(1))
+            Console.WriteLine("TABLA113-3: " & tablaSUI.vector113(2))
+            Console.WriteLine("TABLA113-4: " & tablaSUI.vector113(3))
+            Console.WriteLine("TABLA113-5: " & tablaSUI.vector113(4))
+            Console.WriteLine("TABLA113-6: " & tablaSUI.vector113(5))
+            Console.WriteLine("TABLA113-7: " & tablaSUI.vector113(6))
+            Console.WriteLine("TABLA113-8: " & tablaSUI.vector113(7))
+            Console.WriteLine("TABLA114-1: " & tablaSUI.vector114(0))
+            Console.WriteLine("TABLA114-2: " & tablaSUI.vector114(1))
+            Console.WriteLine("TABLA114-3: " & tablaSUI.vector114(2))
+            Console.WriteLine("TABLA114-4: " & tablaSUI.vector114(3))
+            Console.WriteLine("TABLA114-5: " & tablaSUI.vector114(4))
+            Console.WriteLine("TABLA114-6: " & tablaSUI.vector114(5))
+            Console.WriteLine("TABLA114-7: " & tablaSUI.vector114(6))
+            Console.WriteLine("TABLA114-8: " & tablaSUI.vector114(7))
         Catch ex As Exception
             MessageBox.Show("Se ha encontrado por lo menos un error al validar el formato PI3, por favor valide el archivo a cargar." & vbCrLf & vbCrLf & ex.Message, "Cargue invalido - Error FCI001", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
@@ -247,8 +277,7 @@ Public Class FormCargarInsumos
         If cantErrores = 0 Then
             copiarExcel()
             objeto.eliminarPI3()
-            objeto.registrarPI3()
-            objeto.eliminarPI3Temp()
+            objeto.registrarPI3("INSERT ALL" & vbCrLf & concatscriptPI3 & "SELECT * FROM DUAL")
         End If
         If capturoCatch = 0 Then
             MessageBox.Show("Registros cargados: " & contador + cantErrores & vbCrLf & "Registro sin errores: " & contador & vbCrLf & "Errores encontrados: " & cantErrores & vbCrLf & cadenaError, "Cargue de formato", MessageBoxButtons.OK, MessageBoxIcon.Information)
@@ -271,14 +300,6 @@ Public Class FormCargarInsumos
             capturoCatch = capturoCatch + 1
         End Try
     End Sub
-
-    'Metodo encragado en registrar en la base de datos el Formato PI3
-    'Private Sub registrarPI3()
-    '    Dim objeto As UserModel = New UserModel
-    '    Dim id_plan As Integer
-    '    Dim id_proyecto, id_proyecto_plan_interior As String
-    '    objeto.registrarPI3(id_plan, id_proyecto, id_proyecto_plan_interior)
-    'End Sub
 
     Private Sub restablecerVariables()
         contador = 0
