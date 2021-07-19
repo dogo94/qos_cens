@@ -18,3 +18,13 @@ D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.vbproj.CoreCompi
 D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.dll
 D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.xml
 D:\OneDrive - Grupo EPM\github\qos_cens\Common\obj\Debug\Common.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\bin\Debug\Common.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\bin\Debug\Common.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\bin\Debug\Common.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\obj\Debug\Common.vbprojAssemblyReference.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\obj\Debug\Common.Resources.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\obj\Debug\Common.vbproj.GenerateResource.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\obj\Debug\Common.vbproj.CoreCompileInputs.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\obj\Debug\Common.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\obj\Debug\Common.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\Common\obj\Debug\Common.pdb

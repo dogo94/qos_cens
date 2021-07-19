@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CapaDatos.dll" size="10752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CapaDatos.dll" size="22016">
       <assemblyIdentity name="CapaDatos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>H+zMKC0aabIOEJU1Q/q7/byzC6bJcjcYDD2UaY4wdTY=</dsig:DigestValue>
+        <dsig:DigestValue>MeTUR0wiF+xQGB1s6NIhLK+HgRKc4hX2WeaO6qA+17U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CapaNegocio.dll" size="8704">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CapaNegocio.dll" size="9216">
       <assemblyIdentity name="CapaNegocio" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FjKhEorRtT5NkpJJMIqQH9pdsgulfUf9pxESFLnuR+g=</dsig:DigestValue>
+        <dsig:DigestValue>AonCeIgiWENnK6Gui1OWGdn/B5ampW5jklIJOLu2l2g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>S0ae02S9zuY+oU3Q2NsmQ4D0Ng+iYOTH9BPM7Qw1ngY=</dsig:DigestValue>
+        <dsig:DigestValue>U4xoGB4EqL6H/kI6YZ2S51cNpmGCVtsSidX6M1hwvHA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -139,14 +139,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QOS.exe" size="497584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QOS.exe" size="508368">
       <assemblyIdentity name="QOS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>80faZ1Zk6TUlsxrpcjbVB+b/0X9PYGlheyaiY22qN/U=</dsig:DigestValue>
+        <dsig:DigestValue>6tRPCs8apSb5kNaKXM9nFz+MSmusJS7Gjyy51KxQ+Ug=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

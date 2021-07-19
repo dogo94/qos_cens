@@ -141,6 +141,12 @@
     <Compile Include="FormCargarInsumos.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormCkeckListTC1.Designer.vb">
+      <DependentUpon>FormCkeckListTC1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCkeckListTC1.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormFormatoDiario.Designer.vb">
       <DependentUpon>FormFormatoDiario.vb</DependentUpon>
     </Compile>
@@ -153,11 +159,23 @@
     <Compile Include="FormPrincipal.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormTC.Designer.vb">
+      <DependentUpon>FormTC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTC.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
       <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Form1.vb">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -178,11 +196,17 @@
     <EmbeddedResource Include="FormCargarInsumos.resx">
       <DependentUpon>FormCargarInsumos.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormCkeckListTC1.resx">
+      <DependentUpon>FormCkeckListTC1.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormFormatoDiario.resx">
       <DependentUpon>FormFormatoDiario.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTC.resx">
+      <DependentUpon>FormTC.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

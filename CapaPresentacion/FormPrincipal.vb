@@ -188,6 +188,8 @@ Public Class FormPrincipal
     End Sub
 
     Private Sub btnTC_Click(sender As Object, e As EventArgs) Handles btnTC.Click
+        ActivarBoton(sender, RGBColors.color2)   'selecciona un color de la estructura creada RGBColors
+        openChildForm(New FormTC)    'abrir formulario hijo dentro del contenedor
         '...
         'mi codigo
         '...

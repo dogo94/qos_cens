@@ -13,3 +13,22 @@ D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.Cop
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.dll
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.xml
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.pdb
+<<<<<<< Updated upstream
+=======
+D:\OneDrive - Grupo EPM\github\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\obj\Debug\CapaDatos.pdb
+>>>>>>> Stashed changes
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\bin\Debug\Common.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\bin\Debug\Common.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\bin\Debug\Common.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache

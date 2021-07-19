@@ -17,3 +17,26 @@ D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbproj
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.xml
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.pdb
+<<<<<<< Updated upstream
+=======
+D:\OneDrive - Grupo EPM\github\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbprojAssemblyReference.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\obj\Debug\CapaNegocio.pdb
+>>>>>>> Stashed changes
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\Common.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\Common.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaNegocio\bin\Debug\Common.xml

@@ -28,6 +28,46 @@ D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\QOS.TrustInfo
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\QOS.exe.manifest
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\QOS.application
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+<<<<<<< Updated upstream
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\QOS.exe
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\QOS.xml
 D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\QOS.pdb
+=======
+D:\OneDrive - Grupo EPM\github\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\QOS.exe.config
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\QOS.exe.manifest
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\QOS.application
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\QOS.exe
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\QOS.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\QOS.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.ResolveComReference.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.FormBRA.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.FormCargarInsumos.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.FormFormatoDiario.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\QOS.TrustInfo.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\QOS.exe.manifest
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\QOS.application
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\QOS.exe
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\QOS.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\QOS.pdb
+>>>>>>> Stashed changes
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\Common.dll
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\Common.pdb
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\bin\Debug\Common.xml
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.FormTC.resources
+C:\Users\dgomezoc\OneDrive - Grupo EPM\Qos\Github\actual\qos_cens\CapaPresentacion\obj\Debug\CapaPresentacion.FormCkeckListTC1.resources
